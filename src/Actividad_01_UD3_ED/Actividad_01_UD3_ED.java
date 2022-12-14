@@ -11,9 +11,15 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 /**
- *
- * @author ana
+ * 
+ * <p>Esto es un ejemplo de un programa de manejo de archivos</p>
+ * @author Ana
+ * @author Adri
+ * 
+ * @version 1.0
+ * 
  */
+
 public class Actividad_01_UD3_ED 
 {
     private static byte[] bufer = new byte[1000];
@@ -41,7 +47,7 @@ public class Actividad_01_UD3_ED
     }
     
     /**
-     * @param args the command line arguments
+     * @param args los argumentos de la línea de comando
      */
     public static void main(String[] args) 
     {        
